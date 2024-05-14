@@ -2,8 +2,6 @@
 ## Project Snapshots
 ![image](https://github.com/vanshsingh2002/chat360/assets/131593705/3b4bbde9-3825-475e-bbb1-8eecb42f15d5)
 
-![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/1f15b38a-2b5c-4361-91ee-a1c457930e52)
-![image](https://github.com/RaiyanArsh
 
 
 
